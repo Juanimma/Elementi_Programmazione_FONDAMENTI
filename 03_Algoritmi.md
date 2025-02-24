@@ -65,7 +65,7 @@ Due algoritmi equivalenti:
 
 ---
 
-## Simboli grafici per la rappresentazione degli algoritmi
+## Diagramma di Flusso
 
 ![diagramma_flusso](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/tree/main/img/diagramma_flusso.png)
 
