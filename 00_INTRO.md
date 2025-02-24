@@ -44,6 +44,10 @@ Ogni linguaggio di programmazione presenta caratteristiche distintive, vantaggi 
 
 La selezione del linguaggio più appropriato dipende generalmente dalla natura specifica del progetto e dalle preferenze metodologiche del team di sviluppo.
 
+## Cosa accade
+![Cosa succede](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/blob/main/img/Programming.png)
+
+
 ## Classificazione dei Paradigmi
 
 * Programmazione strutturata
