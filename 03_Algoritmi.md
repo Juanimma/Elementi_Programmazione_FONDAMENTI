@@ -66,8 +66,7 @@ Due algoritmi equivalenti:
 ---
 
 ## Diagramma di Flusso
-https://raw.githubusercontent.com/maboglia/Fondamenti/master/img/diagramma_flusso.png
-![diagramma_flusso](https://raw.githubusercontent.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/tree/main/img/diagramma_flusso.png)
+![diagramma_flusso](https://raw.githubusercontent.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/main/img/diagramma_flusso.png)
 
 ---
 
