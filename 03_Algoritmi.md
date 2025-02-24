@@ -72,22 +72,22 @@ Due algoritmi equivalenti:
 
 ## Simboli grafici per la rappresentazione degli algoritmi
 
-![diagrammi flusso](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/tree/main/img/diagrammi_flusso1.jpg?raw=true)
+![diagrammi flusso](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/blob/main/img/diagrammi_flusso1.jpg?raw=true)
 
 ---
 
 ## Esempio: determinazione della parità di un numero n
 
-![algoritmo](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/tree/main/img/algoritmo.png?raw=true)
+![algoritmo](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/blob/main/img/algoritmo.png?raw=true)
 
 ---
 
 ## Esempio: calcolo della radice quadrata
 
-![alg_ radice quadrata](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/tree/main/img/Algoritmo_calcola_radice_quadrata.png?raw=true)
+![alg_ radice quadrata](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/blob/main/img/Algoritmo_calcola_radice_quadrata.png?raw=true)
 
 ---
 
 ## Esempio: applicazione del teorema di Pitagora
 
-![alg_ pitagora](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/tree/main/img/algoritmi_teorema_di_pitagora.png?raw=true)
+![alg_ pitagora](https://github.com/DarioIEL/Elementi_Programmazione_FONDAMENTI/blob/main/img/algoritmi_teorema_di_pitagora.png?raw=true)
