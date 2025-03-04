@@ -1,0 +1,3 @@
+Crea una classe chiamata Prova ed utilizza delle variabili numeri per fare delle prove.
+
+Prova ad istanziare una variabile per ogni tipo di dato visto a lezione.
