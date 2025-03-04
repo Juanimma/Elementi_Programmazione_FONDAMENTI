@@ -1,4 +1,4 @@
-### Caratteristiche principali di Java (2024)
+### Caratteristiche principali di Java 
 
 Java continua a essere uno dei linguaggi di programmazione più popolari e utilizzati nel 2024. Nato negli anni '90 da un team guidato da James Gosling e rilasciato da Sun Microsystems nel 1995, Java è cresciuto costantemente, adattandosi alle esigenze moderne. Oggi, rimane una scelta di riferimento per lo sviluppo di software robusto, scalabile e portabile. Ecco alcune delle principali caratteristiche che rendono Java un linguaggio così diffuso:
 
