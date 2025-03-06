@@ -1,35 +1,33 @@
 package lezione1;
 
+import java.math.BigDecimal;
+
 public class Costanti {
-	
-	
+
 	public static void main(String[] args) {
-	
-		/**
-		 * COSTANTI
-		 * - solitamente si utilizza il MAIUSC nel nome
-		 * - per definire una costante uso il modificatore final
-		 */
+		double primoNumero = 42.12;
+		System.out.println(primoNumero);
 		
-		final double PI_GRECO = 3.14;
+		primoNumero = 45.3;
+		System.out.println(primoNumero);
 		
-//		PI_GRECO = 3.145697; ATT: NON POSSO RIASSEGNARE UN VALORE AD UNA COSTANTE
-		
+		//per trasformare una variabile in una costante utilizzo il  final davanti alla dichiarazione del tipo
+		//convenzione: solitamente le costanti vengono dichiare tutte in MAIUSC
 		final double IVA = 0.22;
+		final double PI = 3.14;
 		
 		final int MAX_VALUE = 100;
-		final int MIN_VALUE = 1;
+		final int MIN_VALUE = 0;
 		
-		//Voglio calcolare il cose dell'iva su un prodotto
-		double costoProd = 25.9;
+//		Non posso variare il valore di una costante ma la posso utilizzare all'interno di un qualsiasi calcolo
+		//System.out.println(++MAX_VALUE); //MAX_VALUE = MAX_VALUE + 1
 		
-		double costoIva = (costoProd * IVA);
-		
-		System.out.println("Ho pagato in totale " + costoProd + "€ . L'iva mi è costata: " +costoIva + " €");
-//		System.out.format("%.2f", costoIva);
-		
-		final char INIZIALE_NOME = 'D';
-		System.out.println("L'iniziale del mio nome è " + INIZIALE_NOME);
+		//ESEMPIO semplice: calcolare quanto vale l'iva su 259.34 €
+		double costo = 259.34;
+		double valoreIVA = costo * IVA;
+		BigDecimal val_Iva = new BigDecimal(valoreIVA);
+		System.out.println("L'iva su " + costo + "€ vale: " + val_Iva.floatValue());
 		
 	}
+	
 }

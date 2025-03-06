@@ -2,16 +2,27 @@ package lezione0;
 
 public class HelloWorld {
 
-	// commento: una porzione di codice che non viene eseguita 
-	// Ctrl + spazio apre i suggerimenti
-	
-	// metodo main, cioè il punto di partenza di un'applicazione, un programma, una classe 	 	in java 
+	//Questo è il metodo main, punto di ingresso di una qualsiasi applicazione
 	public static void main(String[] args) {
-		//Tutto ciò che metto nelle "" sono delle stringhe, ovvero parole, il modo umano di comunicare con il resto del mondo
-		System.out.println("Ciao, Dario! Sono Java, le mie caratteristiche sono :\n - Robustezza e Sicurezza \n - Orientato agli oggetti \n - Gestione Automatica della memoria (Garbage Collector)\n - Multipiattaforma (WORA = Write Once, Run Anywhere)");
+		//dichiaro una variabile, devo inserire anche il tipo di dato
+		String mioNome;
 		
+		//assegno un valore alla variabile
+		mioNome = "Dario";
 		
-		System.out.println("Ciao Java, sono Dario il docente di questa materia !");
+		//istanzio una variabile (di tipo intero) su una sola riga
+//		byte eta = 35;
+//		short eta = 135;
+		int eta = 35;
+		
+//		uso il char per un solo singolo carattere
+		char classificazione = 'A';
+		
+		double stipendio = 6.4554;
+		
+//		ALT + Shift + Y --> A capo automatico
+		System.out.println("Hello, " + mioNome + " ! Hai " + eta + " anni e sei classificato come " + classificazione);
 		
 	}
+	
 }

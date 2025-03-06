@@ -1,0 +1,9 @@
+Crea un nuovo package chiamato "esercitazioni". All'interno di questo package crea una classe per ogni esercizio.
+
+Esercizio 1: Crea un programma che stampa il nome e il cognome di un utente
+Esercizio 2: Crea un programma che calcola la radice quadrata di un numero intero (42)
+Esercizio 3: Crea un programma che calcola area e perimetro di un rettangolo con i seguenti lati (base: 53.4, altezza: 66.2)
+Esercizio 4: Crea un programma che calcola l'are di un cerchio di raggio 6.3
+Esercizio 5: Scrivi un programma che permetta di trasformare le ore in minuti. Esempio: 3.5 ore equivalgono a 3 ore e mezza cioè a 210 minuti
+
+UPGRADE: prova ad utilizzare un qualche costrutto che chiede all'utente di inserire un numero
