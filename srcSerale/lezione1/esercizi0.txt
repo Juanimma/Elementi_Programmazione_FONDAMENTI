@@ -1,0 +1,11 @@
+1. Crea un package chiamato "esercitazioni", per ogni esercizio creerai una classe chiamata "Esercizio1, Esercizio2, ....)
+
+2. ES1 Scrivi un programma che stampa il tuo nome e il tuo cognome uno sotto l'altro nella console
+
+3. Scrivi un programma che calcola il Perimetro e l'area di un rettangolo con i seguenti dati b = 7.9 , h = 8.3
+
+4. Scrivi un programma che calcola l'area di un cerchio di raggio r = 6;
+
+5. Scrivi un programma che calcola i minuti presenti all'intero di ore scritte in decimali (es: 2,5 ore = 150  min ) e viceversa.
+
+6. Contare da quanti giorni sei nato
