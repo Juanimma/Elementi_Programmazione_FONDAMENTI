@@ -1,0 +1,7 @@
+.dimBox{
+    width: 400px;
+    min-height: 20px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 20%;
+}  
