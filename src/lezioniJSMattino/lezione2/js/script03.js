@@ -74,4 +74,12 @@ let paroleCasuali = ["Lorem", "Gennaro", "Smartphone", "Anna", "Monitor", "Camme
 
 // Questa è stata l'ultima lezione
 
+
+// Abbiamo risolto accentando entrambe le soluzioni
 let mioArr23 = ["Ciao", "Come", "Stai", "?"];
+let mioArrayCarino = ["Questo", "è", "un", "array"];
+
+
+mioArrayCarino.forEach(el =>{
+    console.log(el);
+})
