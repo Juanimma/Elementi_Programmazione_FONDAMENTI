@@ -91,3 +91,6 @@ mioArrayCarino.forEach(el =>{
     console.log(el);
 })
 >>>>>>> Stashed changes
+
+
+//Aggiorno questo file
