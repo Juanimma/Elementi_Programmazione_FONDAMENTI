@@ -73,3 +73,5 @@ let paroleCasuali = ["Lorem", "Gennaro", "Smartphone", "Anna", "Monitor", "Camme
 
 
 // Questa è stata l'ultima lezione
+
+let mioArr23 = ["Ciao", "Come", "Stai", "?"];
