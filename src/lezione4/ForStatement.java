@@ -37,5 +37,28 @@ public class ForStatement {
 		for(int a = 0, c = 9; c >= 0; a++, c--) {
 			System.out.println("a vale: " + a + "\tc vale: " + c);
 		}
+		
+		//for con continue
+		System.out.println("Con il continue");
+		for(int i = 0; i < 5; i++) {
+			if(i == 2) {
+				continue; //il continue mi permette di saltare un giro
+			}
+			System.out.println(i);
+		}
+		
+		//for con break;
+		System.out.println("Con il break");
+		for(int i = 0; i < 5; i++) {
+			if(i == 2) {
+				break; //il break interrompe il ciclo
+			}
+			System.out.println(i);
+		}
+		
+		
+		
+		
+		
 	}
 }
