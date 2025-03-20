@@ -70,3 +70,6 @@ let parola2 = "dario"
 console.log(parola2.length);
 
 let paroleCasuali = ["Lorem", "Gennaro", "Smartphone", "Anna", "Monitor", "Cammello", "Case", "pranzo", "Java", "Javascript"];
+
+
+// Questa è stata l'ultima lezione
