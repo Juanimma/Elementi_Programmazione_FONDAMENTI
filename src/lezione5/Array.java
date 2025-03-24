@@ -1,5 +1,6 @@
 package lezione5;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Array {
@@ -72,6 +73,19 @@ public class Array {
 			System.out.println(mioArr[i]);
 		}
 		
+//		Questo fornisce una rappresentazione formato stringa dell'array
+		System.out.println(Arrays.toString(mioArr));
+		
+//		FOREACH è un for ottimizzato per gli array
+//		ATT: la i non è l'indice ma il singolo elemento dell'array
+		for (int el : mioArr) { 
+			System.out.println(el); 
+		}
+
+		String[] parole = {"Ciao", "Come", "Stai", "?"};
+		for (String parola : parole) {
+			System.out.println(parola);
+		}
 		
 		
 		 
