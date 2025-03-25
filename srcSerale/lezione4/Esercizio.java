@@ -21,8 +21,6 @@ public class Esercizio {
 		while(scann.nextInt() != 0) {
 			System.out.println("Inserisci un numero");
 		}
-		
-
 		System.out.println("Bene, hai scoperto come uscire dal gioco");
 	}
 	
