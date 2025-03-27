@@ -2,8 +2,11 @@ package lezione6;
 
 import java.util.Random;
 
+import lezione7.MetodiAusiliari;
+
 public class Tombola {
 	public static void main(String[] args) {
+		MetodiAusiliari.benvenuto();
 		
 //		dimensione array numeri casuali
 		int dimensione= 10;

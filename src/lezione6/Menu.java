@@ -10,11 +10,12 @@ public class Menu {
 		System.out.println("----MENU----");
 		System.out.println("1. Gioca Tombola (g)");
 		System.out.println("2. Calcola (c)");
-		System.out.println("3. Esci (q)");
+		System.out.println("3. Gioca ai dadi (d)");
+		System.out.println("4. Esci (q)");
 		System.out.println("------------");		
 	}
 	
-	public static void gioca() {
+	public static void giocaTombola() {
 	}
 	
 //	In questo caso il tipo di ritorno è int, questo vuol dire che mi verrà restituito un numero
@@ -44,12 +45,14 @@ public class Menu {
 				case 'g':
 				case '1':
 					System.out.println("Hai scelto di giocare alla tombola. Abbiamo estratto per te i seguenti numeri...");
+					giocaTombola();
 				break;
 				
 				case 'c':
 				case '2':
 					System.out.println("Hai scelto di calcolare qualcosa. I risultati sono...");
 					System.out.println(calcola()); //stampo con il syso il valore restituito dal metodo calcola()
+					
 				break;
 				
 				case 'q':
